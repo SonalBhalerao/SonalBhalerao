@@ -64,38 +64,51 @@ Bilingual website created for a Gram Panchayat with Marathi and English content.
 **Tools:** WordPress • Elementor • Bilingual Website Design
 
 ---
+## 🚀 Featured Projects
 
-## 🛠️ Skills & Technologies
+### 💄 Rushali Dive Makeover & Academy
 
-**Web Development**
+Premium beauty salon and makeup academy website designed and developed for **Rushali Dive, Celebrity Makeup Artist & Beauty Educator**.
 
-`WordPress` `Elementor` `HTML` `CSS` `Responsive Design`
+**Focus:** Luxury beauty branding, academy courses, professional makeup services and responsive website design.
 
-**Digital Marketing**
-
-`SEO` `Meta Ads` `Facebook Marketing` `Instagram Marketing` `Social Media Marketing`
-
-**Design**
-
-`Canva` `Website UI Design` `Digital Creatives`
+🔗 [View Project & Screenshots](https://github.com/SonalBhalerao/cloudcrafter-portfolio)
 
 ---
 
-## 🌐 CloudCrafter
+### 🏗️ Vihan Construction
 
-### Digital Solutions for Growing Businesses
+Professional website developed for a government civil contractor in Nashik.
 
-**CloudCrafter** provides:
+**Focus:** Company profile, infrastructure projects, government schemes and professional presentation.
 
-- Website Design & Development
-- WordPress Websites
-- SEO
-- Social Media Management
-- Meta Advertising
-- Digital Marketing
-- Creative Design
+🔗 [View Project & Screenshots](https://github.com/SonalBhalerao/cloudcrafter-portfolio)
 
 ---
+
+### ⚙️ Tejas Solutions
+
+Business website developed for a Crompton pumps and motors dealership in Pune.
+
+**Focus:** Business presentation, product information and SEO-friendly website structure.
+
+🔗 [View Project & Screenshots](https://github.com/SonalBhalerao/cloudcrafter-portfolio)
+
+---
+
+### 🏘️ Deosane Gram Panchayat
+
+Bilingual Marathi-English website created for a Gram Panchayat.
+
+**Focus:** Government information, notices, schemes, gallery and public information.
+
+🔗 [View Project & Screenshots](https://github.com/SonalBhalerao/cloudcrafter-portfolio)
+
+---
+
+## 🌐 My Complete Portfolio
+
+👉 **[Explore CloudCrafter Portfolio](https://github.com/SonalBhalerao/cloudcrafter-portfolio)**
 
 ## 📂 Portfolio
 
