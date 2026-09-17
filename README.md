@@ -72,7 +72,7 @@ Premium beauty salon and makeup academy website designed and developed for **Rus
 
 **Focus:** Luxury beauty branding, academy courses, professional makeup services and responsive website design.
 
-🔗 [View Project & Screenshots](https://github.com/SonalBhalerao/cloudcrafter-portfolio)
+🔗 [View Project & Screenshots](![Rushali Homepage](rushali-homepage.png))
 
 ---
 
@@ -82,7 +82,7 @@ Professional website developed for a government civil contractor in Nashik.
 
 **Focus:** Company profile, infrastructure projects, government schemes and professional presentation.
 
-🔗 [View Project & Screenshots](https://github.com/SonalBhalerao/cloudcrafter-portfolio)
+🔗 [View Project & Screenshots](Screenshot 2026-09-16 095747.png)
 
 ---
 
